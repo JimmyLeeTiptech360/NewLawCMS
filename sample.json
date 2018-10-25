@@ -1,0 +1,33 @@
+[{
+        "Phase": "A1",
+        "Task": [
+            "Task1",
+            "Task2",
+            "Task3"
+        ]
+    },
+    {
+        "Phase": "A2",
+        "Task": [
+            "Task1",
+            "Task2",
+            "Task3"
+        ]
+    },
+    {
+        "Phase": "A3",
+        "Task": [
+            "Task1",
+            "Task2",
+            "Task3"
+        ]
+    },
+    {
+        "Phase": "A4",
+        "Task": [
+            "Task1",
+            "Task2",
+            "Task3"
+        ]
+    }
+]
